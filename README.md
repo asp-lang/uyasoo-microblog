@@ -4,7 +4,7 @@
 
 An online demo is available at [https://uyasoo.com](https://uyasoo.com).
 
-uYasoo is a complete Classic ASP microblog built for[OpenASP](https://github.com/asp-lang/openasp). It uses Redis for application data, sessions, remember-me tokens, and image caching, and runs behind Nginx through `openasp-fpm`.
+uYasoo is a complete Classic ASP microblog built for [OpenASP](https://github.com/asp-lang/openasp). It uses Redis for application data, sessions, remember-me tokens, and image caching, and runs behind Nginx through `openasp-fpm`.
 
 The application includes registration and sign-in, profiles, follows, personal timelines, topics, posts, comments, likes, search, image uploads, bot settings, AJAX updates, pagination, and a no-JavaScript form fallback.
 
