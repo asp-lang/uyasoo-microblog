@@ -1,0 +1,7 @@
+<!-- Copyright (c) 2026 https://uyasoo.com -->
+<!-- SPDX-License-Identifier: MIT -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>uYasoo</title>
+  <circle cx="32" cy="32" r="30" fill="#ff8200"/>
+  <path d="M13 12h10l9 14 9-14h10L36.5 34v18h-9V34Z" fill="#fff"/>
+</svg>
