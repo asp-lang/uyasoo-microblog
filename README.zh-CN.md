@@ -1,4 +1,4 @@
-# uYasoo ASP 微博
+# uYasoo: ASP 微博
 
 <p align="center" id="uyasoo-top">
   <img src="assets/uyasoo-logo.png" alt="uYasoo" width="500">

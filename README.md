@@ -1,4 +1,4 @@
-# uYasoo ASP Microblog
+# uYasoo: ASP MicroBlog
 
 <p align="center" id="uyasoo-top">
   <img src="assets/uyasoo-logo.png" alt="uYasoo" width="500">
