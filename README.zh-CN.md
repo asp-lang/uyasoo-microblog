@@ -1,6 +1,23 @@
 # uYasoo ASP 微博
 
-[English](README.md)
+<p align="center" id="uyasoo-top">
+  <img src="assets/uyasoo-logo.png" alt="uYasoo" width="500">
+</p>
+<p align="center">
+  <a href="https://github.com/asp-lang/openasp"><img src="assets/badge-runtime.png" alt="运行时：OpenASP 0.1.0" height="20"></a>
+  <a href="https://spdx.org/licenses/MIT.html"><img src="assets/badge-license.png" alt="许可证：MIT" height="20"></a>
+  <a href="#环境要求"><img src="assets/badge-storage.png" alt="存储：Redis" height="20"></a>
+  <a href="#环境要求"><img src="assets/badge-platforms.png" alt="平台：Linux、MacOS 和 Unix" height="20"></a>
+</p>
+<p align="center">
+  <a href="https://uyasoo.com">在线示例</a> |
+  <a href="#系统架构">系统架构</a> |
+  <a href="#环境要求">环境要求</a> |
+  <a href="#1-安装系统依赖">安装</a> |
+  <a href="#4-启动应用">启动</a> |
+  <a href="https://asp-lang.org">OpenASP</a> |
+  <a href="README.md">English</a>
+</p>
 
 线上示例：[https://uyasoo.com](https://uyasoo.com)。
 

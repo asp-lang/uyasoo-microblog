@@ -1,6 +1,23 @@
 # uYasoo ASP Microblog
 
-[简体中文](README.zh-CN.md)
+<p align="center" id="uyasoo-top">
+  <img src="assets/uyasoo-logo.png" alt="uYasoo" width="500">
+</p>
+<p align="center">
+  <a href="https://github.com/asp-lang/openasp"><img src="assets/badge-runtime.png" alt="Runtime: OpenASP 0.1.0" height="20"></a>
+  <a href="https://spdx.org/licenses/MIT.html"><img src="assets/badge-license.png" alt="License: MIT" height="20"></a>
+  <a href="#requirements"><img src="assets/badge-storage.png" alt="Storage: Redis" height="20"></a>
+  <a href="#requirements"><img src="assets/badge-platforms.png" alt="Platforms: Linux, MacOS, and Unix" height="20"></a>
+</p>
+<p align="center">
+  <a href="https://uyasoo.com">Demo</a> |
+  <a href="#architecture">Architecture</a> |
+  <a href="#requirements">Requirements</a> |
+  <a href="#1-install-system-dependencies">Install</a> |
+  <a href="#4-start-the-application">Start</a> |
+  <a href="https://asp-lang.org">OpenASP</a> |
+  <a href="README.zh-CN.md">简体中文</a>
+</p>
 
 An online demo is available at [https://uyasoo.com](https://uyasoo.com).
 
